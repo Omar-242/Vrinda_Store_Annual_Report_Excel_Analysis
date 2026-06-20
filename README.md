@@ -1,6 +1,6 @@
-# 📊 Vrinda Store Sales Analysis Dashboard (Excel Project)
+# Vrinda Store Sales Analysis Dashboard (Excel Project)
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes the 2022 sales performance of Vrinda Store using Microsoft Excel. The objective was to transform raw sales data into meaningful business insights through data cleaning, processing, analysis, and visualization.
 
@@ -8,7 +8,7 @@ The project demonstrates the use of Excel's data analysis features such as Pivot
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of this project were:
 
@@ -21,7 +21,7 @@ The main objectives of this project were:
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset contains order-level sales information including:
 
@@ -50,7 +50,7 @@ The dataset contains order-level sales information including:
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 To ensure accurate analysis, several data cleaning steps were performed.
 
@@ -77,7 +77,7 @@ This ensured that quantity data could be analyzed correctly.
 
 ---
 
-## ⚙️ Data Processing
+## Data Processing
 
 Additional columns were created to support business analysis.
 
@@ -99,7 +99,7 @@ A Month column was created from the Date field to enable monthly trend analysis 
 
 ---
 
-## 📈 Business Questions Answered
+## Business Questions Answered
 
 The following business questions were analyzed using Pivot Tables and Pivot Charts.
 
@@ -142,7 +142,7 @@ Analyzed sales contribution from channels such as:
 
 ---
 
-## 📊 Dashboard Creation
+## Dashboard Creation
 
 The dashboard was developed using:
 
@@ -163,7 +163,7 @@ Users can filter dashboard results dynamically using these slicers.
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ### Excel Dashboard
 
@@ -171,7 +171,7 @@ Users can filter dashboard results dynamically using these slicers.
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 The analysis revealed several important business insights:
 
@@ -184,7 +184,7 @@ The analysis revealed several important business insights:
 
 ---
 
-## 🛠️ Tools and Technologies Used
+## Tools and Technologies Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -195,7 +195,7 @@ The analysis revealed several important business insights:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Vrinda-Store-Sales-Analysis
@@ -209,7 +209,7 @@ Vrinda-Store-Sales-Analysis
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the Excel file.
 2. Open the workbook in Microsoft Excel.
@@ -219,7 +219,7 @@ Vrinda-Store-Sales-Analysis
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -233,8 +233,8 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Omar Chowdhury**
+**Omar Faruque Chowdhury**
 
 Excel Data Analysis Project – Sales Dashboard Development
